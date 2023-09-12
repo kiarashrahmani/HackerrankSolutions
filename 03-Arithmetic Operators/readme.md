@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Arithmetic Operators</title>
 </head>
 <body>
-  <h1>Number Operations</h1>
+  <h1>Arithmetic Operators</h1>
 
   <p>The provided code stub reads two integers from STDIN, <code>a</code> and <code>b</code>. Add code to print three lines where:</p>
 
