@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Number Operations Description</title>
+  <title>Arithmetic Operators</title>
 </head>
 <body>
   <h1>Number Operations</h1>
