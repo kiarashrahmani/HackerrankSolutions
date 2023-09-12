@@ -3,10 +3,10 @@
 <p>Given an integer, <code>n</code>, perform the following conditional actions:</p>
 
 <ul>
-  <li>If <code>n</code> is odd, print <span class="emoji">👽</span> Weird</li>
-  <li>If <code>n</code> is even and in the inclusive range of 2 to 5, print <span class="emoji">🤔</span> Not Weird</li>
-  <li>If <code>n</code> is even and in the inclusive range of 6 to 20, print <span class="emoji">🤔</span> Weird</li>
-  <li>If <code>n</code> is even and greater than 20, print <span class="emoji">🤔</span> Not Weird</li>
+  <li>If <code>n</code> is odd, print Weird</li>
+  <li>If <code>n</code> is even and in the inclusive range of 2 to 5, print  Not Weird</li>
+  <li>If <code>n</code> is even and in the inclusive range of 6 to 20, print </span> Weird</li>
+  <li>If <code>n</code> is even and greater than 20, print  Not Weird</li>
 </ul>
 
 <h2>Input Format</h2>
