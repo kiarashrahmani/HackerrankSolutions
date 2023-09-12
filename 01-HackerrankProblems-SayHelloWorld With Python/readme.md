@@ -7,7 +7,7 @@
 my_string = "Hello, World!"
 print(my_string)</code></pre>
 
-<p>The above code will print <strong>Hello, World!</strong> on your screen. Try it yourself in the editor below!</p>
+<p>The above code will print <strong>Hello, World!</strong> on your screen.</p>
 
 <h2>Input Format</h2>
 
