@@ -18,9 +18,7 @@
 <h3>Constraints</h3>
 
 <p>1 &le; n &le; 20</p>
-<ul>
-  <li></li>
-</ul>
+
 
 <h3>Output Format</h3>
 
