@@ -1,4 +1,13 @@
-n = int(input())  # Takes input from the user and converts it to an integer
+x = int(input())
+y = int(input())
+z = int(input())
+n = int(input())
 
-for i in range(1, n + 1):  # Loops through the range from 1 to n (inclusive)
-    print(i, end="")  # Prints the value of i without a newline
+# Using list comprehensions to generate the coordinates
+coordinates = [[i, j, k] for i in range(x + 1) for j in range(y + 1) for k in range(z + 1) if i + j + k != n]
+
+# Sorting the coordinates in lexicographic increasing order
+coordinates.sort()
+
+# Printing the coordinates
+print(coordinates)
