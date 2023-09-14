@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
 </head>
 <body>
-    <h1>print function</h1>
+    <li>print function</li>
     <p>The included code stub will read an integer, n , from STDIN.
 
 Without using any string methods, try to print the following:
