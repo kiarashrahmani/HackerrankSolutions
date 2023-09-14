@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
 </head>
 <body>
-    <li>print function</li>
+    <h1>print function</h1>
     <p>The included code stub will read an integer, n , from STDIN.
 
 Without using any string methods, try to print the following:
@@ -25,6 +25,6 @@ Note that "... " represents the consecutive values in between.</p>
     </ul>
 
  <h3>Output Format</h3>
-    <p>Print the list of integers from  through  as a string, without spaces.</p>
+    <p>Print the list of integers from through as a string, without spaces.</p>
 </body>
 </html>
