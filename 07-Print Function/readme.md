@@ -21,7 +21,7 @@ Note that "... " represents the consecutive values in between.</p>
 
 <h3>Constraints</h3>
     <ul>
-        <li>1 &le; n &le; 150 </li>
+        <p>1 &le; n &le; 150 </p>
     </ul>
 
  <h3>Output Format</h3>
