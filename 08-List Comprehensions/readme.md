@@ -27,6 +27,3 @@ print(coordinates)
 <li>Print the list in lexicographic increasing order</li>
 </ul>
 
-<p><strong>Output Format:</strong></p>
-
-<p>Print the list of coordinates in lexicographic increasing order.</p>
