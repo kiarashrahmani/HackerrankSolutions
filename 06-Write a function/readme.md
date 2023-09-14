@@ -23,7 +23,7 @@
 
 <h3>Constraints</h3>
     <ul>
-        <li>1900 &lt;= year &lt;= 10<sup>5</sup></li>
+        <li>1900 &le; year &le; 10<sup>5</sup></li>
     </ul>
 
  <h3>Output Format</h3>
