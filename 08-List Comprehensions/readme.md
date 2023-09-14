@@ -23,7 +23,6 @@ print(coordinates)
 
 <p><strong>Constraints:</strong></p>
 
-<ul>
-<p>Print the list in lexicographic increasing order</li>
+<p>Print the list in lexicographic increasing order
 </p>
 
