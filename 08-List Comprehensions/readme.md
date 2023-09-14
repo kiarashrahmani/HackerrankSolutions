@@ -24,7 +24,7 @@ print(coordinates)
 <p><strong>Constraints:</strong></p>
 
 <ul>
-<li><code>Print the list in lexicographic increasing order</code></li>
+<li>Print the list in lexicographic increasing order</li>
 </ul>
 
 <p><strong>Output Format:</strong></p>
