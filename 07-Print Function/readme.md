@@ -20,9 +20,9 @@ Note that "... " represents the consecutive values in between.</p>
     <p>The first line contains an integer n.</p>
 
 <h3>Constraints</h3>
-    <ul>
+    <p>
         <p>1 &le; n &le; 150 </p>
-    </ul>
+    </p>
 
  <h3>Output Format</h3>
     <p>Print the list of integers from through as a string, without spaces.</p>
