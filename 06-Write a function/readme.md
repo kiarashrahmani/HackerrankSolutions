@@ -13,21 +13,21 @@
         <li>The year can be evenly divided by 100, it is NOT a leap year, unless:</li>
         <li>The year is also evenly divisible by 400. Then it is a leap year.</li>
     </ol>
-    <p>This means that in the Gregorian calendar, the years 2000 and 2400 are leap years, while 1800, 1900, 2100, 2200, 2300, and 2500 are NOT leap years. Source</p>
+  <p>This means that in the Gregorian calendar, the years 2000 and 2400 are leap years, while 1800, 1900, 2100, 2200, 2300, and 2500 are NOT leap years. Source</p>
     
-    <h2>Task</h2>
+<h2>Task</h2>
     <p>Given a year, determine whether it is a leap year. If it is a leap year, return the Boolean True, otherwise return False.</p>
     <p>Note that the code stub provided reads from STDIN and passes arguments to the <code>is_leap</code> function. It is only necessary to complete the <code>is_leap</code> function.</p>
 
-    <h3>Input Format</h3>
+<h3>Input Format</h3>
     <p>Read <strong>year</strong>, the year to test.</p>
 
-    <h3>Constraints</h3>
+<h3>Constraints</h3>
     <ul>
         <li><strong>year</strong> is an integer.</li>
     </ul>
 
-    <h3>Output Format</h3>
+ <h3>Output Format</h3>
     <p>The function must return a Boolean value (True/False). Output is handled by the provided code stub.</p>
 </body>
 </html>
