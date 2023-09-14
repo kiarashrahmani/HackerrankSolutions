@@ -2,10 +2,9 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Leap Year Check</title>
 </head>
 <body>
-    <h1>Leap Year Check</h1>
+    <h1>Write a function</h1>
     <p>An extra day is added to the calendar almost every four years as February 29, and the day is called a leap day. It corrects the calendar for the fact that our planet takes approximately 365.25 days to orbit the sun. A leap year contains a leap day.</p>
     <p>In the Gregorian calendar, three conditions are used to identify leap years:</p>
     <ol>
@@ -24,7 +23,7 @@
 
 <h3>Constraints</h3>
     <ul>
-        <li><strong>year</strong> is an integer.</li>
+        <li>1900 &lt;= year &lt;= 10<sup>5</sup></li>
     </ul>
 
  <h3>Output Format</h3>
