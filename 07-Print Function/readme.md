@@ -1,6 +1,6 @@
 <h2>The included code stub will read an integer, <code>&lt;n&gt;</code>, from STDIN.</h2>
 
-<h3>Without using any string methods, try to print the following:</h3>
+<p>Without using any string methods, try to print the following:</p>
 
 <pre>
 <code>Note that "&lt;start&gt;&lt;end&gt;" represents the consecutive values in between.</code>
