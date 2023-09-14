@@ -24,7 +24,7 @@ print(coordinates)
 <p><strong>Constraints:</strong></p>
 
 <ul>
-<li><code>0 ≤ x,y,z ≤ 100</code></li>
+<li><code>Print the list in lexicographic increasing order</code></li>
 </ul>
 
 <p><strong>Output Format:</strong></p>
