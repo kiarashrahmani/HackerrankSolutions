@@ -1,20 +1,23 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Sep 18 22:19:37 2023
+if __name__ == '__main__':
+    # Initialize an empty list to store student names and grades
+    students = []
 
-@author: Kiarash Rahmani
-"""
-Finallist = []
-for _ in range(int(input())):
-    name = input()
-    score = float(input())
-    MyList = []
-    MyList.append(name)
-    MyList.append(score)
-    Finallist.append(MyList)
-    MyList = []
-    
-    
+    # Get the number of students from the user
+    n = int(input())
 
-print(MyList)
-print(Finallist)
+    # Get the student names and grades
+    for _ in range(n):
+        name = input()
+        score = float(input())
+        students.append([name, score])
+
+    # Find the second lowest grade
+    scores = sorted(list(set([score for name, score in students])))
+    second_lowest_score = scores[1]
+
+    # Get the names of students with the second lowest grade
+    second_lowest_students = sorted([name for name, score in students if score == second_lowest_score])
+
+    # Print the names of students with the second lowest grade
+    for student in second_lowest_students:
+        print(student)
